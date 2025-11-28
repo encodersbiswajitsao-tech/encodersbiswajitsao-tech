@@ -1,4 +1,5 @@
 # 🚀 Hi, I'm Biswajit Sao! 
+![Thanks For Visiting](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGc5cTFkaGJ5d2t3eWY3cm51bDJnc2I3dXEwZmk1dng2MGV3ZXMxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/73E4wQO3OUZPO/giphy.gif)
 ### 💻 Software Engineer & MERN Stack Developer
 
 ![GitHub Followers](https://img.shields.io/github/followers/encodersbiswajitsao-tech?style=social)
@@ -11,8 +12,6 @@
 ## 🎁 🎁 🎁 🎁 🎁 🎁 🎁 🎁
 
 ![Thanks For Visiting](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3B6eWR6c2x0amt3NzVicG54ZHJhdnVkcmFobTE2ZHJvbnpidDE4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mFdnWF1RTI7fi/giphy.gif)
-
-![Thanks For Visiting](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGc5cTFkaGJ5d2t3eWY3cm51bDJnc2I3dXEwZmk1dng2MGV3ZXMxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/73E4wQO3OUZPO/giphy.gif)
 
 ---
 
