@@ -2,7 +2,7 @@
 ### 💻 Software Engineer & MERN Stack Developer
 
 ![GitHub Followers][(https://avatars.githubusercontent.com/u/241692436?s=96&v=4)]
-![GitHub Stars](https://img.shields.io/github/stars/encodersbiswajitsao-tech?style=social)
+![GitHub Stars][(https://img.shields.io/github/stars/encodersbiswajitsao-tech?style=social)]
 
 ---
 
